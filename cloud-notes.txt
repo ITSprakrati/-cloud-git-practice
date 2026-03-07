@@ -1,3 +1,6 @@
+Cloud computing basics
+Git helps in version control
+Learning Git for cloud task
 1. Git tracks changes in files
 2. Git has a staging area before commit
 3. Commits store history of the project
