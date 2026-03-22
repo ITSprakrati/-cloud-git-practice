@@ -5,3 +5,8 @@ Branch B was here
 AWS S3
 Azure Blob Storage
 Google Cloud Storage
+## Cloud Storage Resources
+
+- AWS S3
+- Azure Blob Storage
+- Google Cloud Storage
